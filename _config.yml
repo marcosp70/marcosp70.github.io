@@ -25,7 +25,7 @@ author:
   name             : "Marcos Silva"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Belo Horizonte/Minas Gerais - Brazil"
+  location         : "Belo Horizonte,Minas Gerais - Brazil"
   employer         : "CEFET-MG"
   uri              : # URL
   email            : "marcos.silva@aluno.cefetmg.br" 
@@ -90,7 +90,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

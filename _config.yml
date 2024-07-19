@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Marcos Silva"
+title                    : "Marcos' Homepage"
 title_separator          : "-"
 name                     : &name "Marcos Silva"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Marcos Silva"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering and Cybersecurity Student"
-  location         : "Belo Horizonte, Minas Gerais - Brazil"
+  location         : "Minas Gerais, Brazil"
   employer         : "CEFET-MG"
   uri              : # URL
   email            : "marcos.silva@aluno.cefetmg.br" 

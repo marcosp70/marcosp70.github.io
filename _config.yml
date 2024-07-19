@@ -25,7 +25,7 @@ author:
   name             : "Marcos Silva"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering and Cybersecurity Student"
-  location         : "Belo Horizonte,Minas Gerais - Brazil"
+  location         : "Belo Horizonte, Minas Gerais - Brazil"
   employer         : "CEFET-MG"
   uri              : # URL
   email            : "marcos.silva@aluno.cefetmg.br" 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : marcosss70 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -90,7 +90,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

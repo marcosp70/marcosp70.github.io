@@ -20,9 +20,9 @@ redirect_from:
 
 👾 I am passionate about participating in CTFs and hackathons. I also have co-founded and was the president of CyberForce NOVA, a cybersecurity student club at NOVA, where we organized events and raise cybersecurity awareness.
 
-Do you want to know more about me? Access my <a href="cv.pdf" target="_blank">CV</a>.
+Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_blank">CV</a>.
 
-## Selected Experience - All experiences <a href="cv.pdf" target="_blank">here</a>.
+## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
 
 ### Research Assistant, Intern 🧑‍🔬
 **<a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Trustworthy Cyberspace Lab (tClab) at Virginia Tech</a>**  

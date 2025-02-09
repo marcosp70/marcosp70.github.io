@@ -6,17 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="color: red;">I am currently seeking research internship opportunities in the cybersecurity field, particularly in security and privacy topics. If you're interested in connecting, feel free to <a href="mailto:marcos.silva@aluno.cefetmg.br" style="color: red;">email me</a> directly!</p>
+<div style="color: grey; font-size: 0.8em;">Last updated: February 9, 2025</div>
 
 ## A little bit about me
 
 🧑🏽‍💻 I'm a Computer Engineering student at CEFET-MG in Brazil.
 
-🛫 I was awarded a scholarship to study cybersecurity for one year in the U.S. through an <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">academic exchange program</a> sponsored by the U.S. Department of State. During my time at Northern Virginia Community College, I graduated with honors (summa cum laude) and achieved a perfect GPA of 4.0.
+💻 Currently, I am working as a research intern at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany, under the guidance of [Dr. Yixin Zou](https://yixinzou.github.io/). My research focuses on human-centered security and privacy, and I'm collaborating on cutting-edge research related to privacy, security, and user behavior alongside leading experts in the field.
 
-🔬 My research interests are in topics related to security and privacy, as combating cybergrooming, network security, and penetration testing in general.
+🛫 I was awarded a scholarship to study cybersecurity for one year in the U.S. through an <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">academic exchange program</a> sponsored by the U.S. Department of State. During my time at Northern Virginia Community College, I graduated with honors (summa cum laude) and achieved a GPA of 4.0.
 
-📚 I recently wrote a systemetic review about cybergrooming and its challenges with other researchers from <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Virginia Tech</a>.
+🔬 My research interests are in topics related to security and privacy, as combating cybergrooming, network security, and penetration testing.
+
+📚 I recently wrote a systemetic review about cybergrooming and its challenges with other researchers from <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Virginia Tech</a> (publication currently under review).
 
 👾 I am passionate about participating in CTFs and hackathons. I also have co-founded and was the president of CyberForce NOVA, a cybersecurity student club at NOVA, where we organized events and raise cybersecurity awareness.
 
@@ -24,10 +26,15 @@ Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_bl
 
 ## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
 
-### Research Assistant, Intern 🧑‍🔬
+### Research Intern 🔍
+<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>
+*March 2025 - August 2025*  
+Research intern in the Human-Centered Security and Privacy group, led by Dr. Yixin Zou, working on topics related to privacy, security, and user behavior. Engaging in cutting-edge research with leading experts in the field.
+
+### Research Intern 🧑‍🔬
 **<a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Trustworthy Cyberspace Lab (tClab) at Virginia Tech</a>**  
 *October 2023 - November 2024*  
-Part-time intern at Trustworthy Cyberspace Lab (tClab) at Virginia Tech, the second-best university in Virginia, where I contributed as the second author of a systematic review summarizing 77 papers on combating cybergrooming and collected datasets and source codes to support future lab research.
+Part-time intern at Trustworthy Cyberspace Lab (tClab) at Virginia Tech, where I contributed as the second author of a systematic review summarizing 77 papers on combating cybergrooming and collected datasets and source codes to support future lab research.
 
 ### Professor's Assistant, Intern 📡
 **<a href="https://c5i.gmu.edu/" target="_blank">C4I & Cyber Center at George Mason University</a>**  
@@ -58,7 +65,7 @@ Developed a full-stack web platform for online essay correction for federal netw
 
 - **Honorable Mention** – *ICPC (International Collegiate Programming Contest)*, South America/Brazil Regional Phase (2022)  
 
-- **Honorable Mention** – *Maratona Mineira de Programação*, SBC (2022)  
+- **Honorable Mention** – *Minas Gerais Programming Marathon*, Brazilian Computer Society (SBC) (2022)  
 
 - **International Event Organizer** – *Castlethon 4.0* (2022)  
   *One of only 2 students from CEFET-MG selected to be part of the organizing committee.* 

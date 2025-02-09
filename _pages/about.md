@@ -27,7 +27,7 @@ Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_bl
 ## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
 
 ### Research Intern 🔍
-<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>
+**<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>**
 *March 2025 - August 2025*  
 Research intern in the Human-Centered Security and Privacy group, led by Dr. Yixin Zou, working on topics related to privacy, security, and user behavior. Engaging in cutting-edge research with leading experts in the field.
 

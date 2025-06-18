@@ -29,11 +29,11 @@ Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_bl
 
 - **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichhawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa Redmiles, Yixin Zou. (2026).  
   **"We Have Hackers Everywhere": Security and Privacy Concerns and Advice in Nine Majority World Countries**.  
-  Manuscript under review at *IEEE Symposium on Security and Privacy (S&P)*, 2026.
+  Manuscript under review.
 
 - **[C.1]** Heajun An, **Marcos Silva**, Qi Zhang, Arav Singh, Minqian Liu, Xinyi Zhang, Sarvech Qadir, Sang Won Lee, Lifu Huang, Pamela Wisniewski, Jin-Hee Cho. (2025).  
   [**Toward Integrated Solutions: A Systematic Interdisciplinary Review of Cybergrooming Research**](https://arxiv.org/abs/2503.05727).  
-  Under review at *Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIACCS)*, 2025.
+  Manuscript under review.
 
 
 ## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.

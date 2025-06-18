@@ -6,23 +6,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="color: grey; font-size: 0.8em;">Last updated: February 9, 2025</div>
+<div style="color: grey; font-size: 0.8em;">Last updated: June 18, 2025</div>
 
 ## A little bit about me
 
 🧑🏽‍💻 I'm a Computer Engineering student at CEFET-MG in Brazil.
 
-💻 Currently, I am working as a research intern at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) in Bochum, Germany, under the guidance of [Dr. Yixin Zou](https://yixinzou.github.io/). My research focuses on human-centered security and privacy, and I'm collaborating on cutting-edge research related to privacy, security, and user behavior alongside leading experts in the field.
+💻 I am currently a research intern at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, working under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My work focuses on human-centered security and privacy, with a particular emphasis on <b>analyzing dark patterns in online gambling platforms</b>. I investigate how UX/UI design manipulates user behavior by comparing deceptive interface strategies across different websites.
+
 
 🛫 I was awarded a scholarship to study cybersecurity for one year in the U.S. through an <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">academic exchange program</a> sponsored by the U.S. Department of State. During my time at Northern Virginia Community College, I graduated with honors (summa cum laude) and achieved a GPA of 4.0.
 
-🔬 My research interests are in topics related to security and privacy, as combating cybergrooming, network security, and penetration testing.
+🔬 My research interests are in topics related to security, privacy, and HCI, as combating cybergrooming, dark patterns, cybercrimes, and penetration testing.
 
-📚 I recently wrote a systemetic review about cybergrooming and its challenges with other researchers from <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Virginia Tech</a> (publication currently under review).
+📚 I recently wrote a <a href="https://arxiv.org/abs/2503.05727" target="_blank">systematic review</a> about cybergrooming and its challenges with other researchers from <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Virginia Tech</a>.
 
-👾 I am passionate about participating in CTFs and hackathons. I also have co-founded and was the president of CyberForce NOVA, a cybersecurity student club at NOVA, where we organized events and raise cybersecurity awareness.
+👾 I am passionate about participating in CTFs and hackathons. I also have founded and was the president of CyberForce NOVA, a cybersecurity student club at NOVA, where we organized events and raise cybersecurity awareness.
 
 Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_blank">CV</a>.
+
+## Publications
+
+- **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichhawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa Redmiles, Yixin Zou. (2026).  
+  **"We Have Hackers Everywhere": Security and Privacy Concerns and Advice in Nine Majority World Countries**.  
+  Manuscript under review at *IEEE Symposium on Security and Privacy (S&P)*, 2026.
+
+- **[C.1]** Heajun An, **Marcos Silva**, Qi Zhang, Arav Singh, Minqian Liu, Xinyi Zhang, Sarvech Qadir, Sang Won Lee, Lifu Huang, Pamela Wisniewski, Jin-Hee Cho. (2025).  
+  [**Toward Integrated Solutions: A Systematic Interdisciplinary Review of Cybergrooming Research**](https://arxiv.org/abs/2503.05727).  
+  Under review at *Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIACCS)*, 2025.
+
 
 ## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
 

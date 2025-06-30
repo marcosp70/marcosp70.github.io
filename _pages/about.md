@@ -27,7 +27,7 @@ Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_bl
 
 ## Publications
 
-- **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichhawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa Redmiles, Yixin Zou. (2026).  
+- **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichhawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa Redmiles, Yixin Zou. (2025).  
   **"We Have Hackers Everywhere": Security and Privacy Concerns and Advice in Nine Majority World Countries**.  
   Manuscript under review.
 

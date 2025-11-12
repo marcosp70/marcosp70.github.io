@@ -10,43 +10,47 @@ redirect_from:
 
 ## A little bit about me
 
-🧑🏽‍💻 I'm a Computer Engineering student at CEFET-MG in Brazil.
+🧑🏽‍💻 I'm a final-year Computer Engineering student at CEFET-MG (Brazil), passionate about human-centered security and privacy.
 
-💻 I am currently a research intern at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, working under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My work focuses on human-centered security and privacy, with a particular emphasis on <b>analyzing dark patterns in online gambling platforms</b>. I investigate how UX/UI design manipulates user behavior by comparing deceptive interface strategies across different websites.
+💻 I recently completed a research internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, where I worked under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My research focused on human-centered security and privacy, analyzing the life cycle of online gambling addiction through personal testimonies to identify deceptive design patterns that manipulate users across regulated and unregulated platforms.
 
+🛫 I was awarded a one-year U.S. Department of State scholarship to study cybersecurity at Northern Virginia Community College through the <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">Community College Initiative Program (CCI)</a>, where I graduated summa cum laude with a 4.0 GPA.
 
-🛫 I was awarded a scholarship to study cybersecurity for one year in the U.S. through an <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">academic exchange program</a> sponsored by the U.S. Department of State. During my time at Northern Virginia Community College, I graduated with honors (summa cum laude) and achieved a GPA of 4.0.
+📚 I’m the second author of a <a href="https://arxiv.org/abs/2503.05727" target="_blank">systematic review</a> on cybergrooming with researchers from <a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Virginia Tech</a>, and I contributed to an <strong>international study</strong> on security and privacy advice across nine Majority World countries (to appear at <em>IEEE S&P 2026</em>), coordinating data collection in Brazil.
 
-🔬 My research interests are in topics related to security, privacy, and HCI, as combating cybergrooming, dark patterns, cybercrimes, and penetration testing.
+👾 I’m passionate about CTFs, hackathons, and collaborative research. I founded and served as president of CyberForce NOVA, a cybersecurity student club at NOVA, where I helped organize events and promote cybersecurity awareness.
+<!-- 👾 I’m also the founder of <a href="http://nextgenresearchers.com/" target="_blank"><strong>NextGen Researchers</strong></a>, helping undergraduates explore international research opportunities and connect with mentors worldwide. Previously, I founded CyberForce NOVA, a cybersecurity club at NOVA, where I led events and hackathons to promote cybersecurity awareness. -->
 
-📚 I recently wrote a <a href="https://arxiv.org/abs/2503.05727" target="_blank">systematic review</a> about cybergrooming and its challenges with other researchers from <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Virginia Tech</a>.
-
-👾 I am passionate about participating in CTFs and hackathons. I also have founded and was the president of CyberForce NOVA, a cybersecurity student club at NOVA, where we organized events and raise cybersecurity awareness.
-
-Do you want to know more about me? Access my <a href="/files/cv.pdf" target="_blank">CV</a>.
+If you’d like to know more about my work, check out my <a href="/files/cv.pdf" target="_blank">CV</a>.
 
 ## Publications
 
-- **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichhawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa Redmiles, Yixin Zou. (2025).  
-  **"We Have Hackers Everywhere": Security and Privacy Concerns and Advice in Nine Majority World Countries**.  
-  Manuscript under review.
+- **[C.2]** Collins Munyendo, Veronica Rivera, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, **Marcos Silva**, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Maryam Mustafa, Abhishek Bichhawat, Francisco Marmolejo-Cossio, Elissa M. Redmiles*, Yixin Zou*.  
+  **"I Wonder if These Warnings Are Accurate": Security and Privacy Advice in Nine Majority World Countries.**  
+  *IEEE Symposium on Security and Privacy (IEEE S&P), 2026 (to appear).* [📄 PDF](https://collinsmunyendo.github.io/papers/2026_Oakland_Security_Advice.pdf)  
+  *\* co-advisors*
+
 
 - **[C.1]** Heajun An, **Marcos Silva**, Qi Zhang, Arav Singh, Minqian Liu, Xinyi Zhang, Sarvech Qadir, Sang Won Lee, Lifu Huang, Pamela Wisniewski, Jin-Hee Cho. (2025).  
-  [**Toward Integrated Solutions: A Systematic Interdisciplinary Review of Cybergrooming Research**](https://arxiv.org/abs/2503.05727).  
-  Manuscript under review.
+  **Toward Integrated Solutions: A Systematic Interdisciplinary Review of Cybergrooming Research**.  
+  *R&R at ACM Computing Surveys (in revision).*  
+  Preprint 📄: [arXiv:2503.05727](https://arxiv.org/abs/2503.05727).
+
 
 
 ## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
 
-### Research Intern 🔍
-**<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>**
+### Research Intern 🔍  
+**<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>**  
 *March 2025 - August 2025*  
-Research intern in the Human-Centered Security and Privacy group, led by Dr. Yixin Zou, working on topics related to privacy, security, and user behavior. Engaging in cutting-edge research with leading experts in the field.
+Research intern in the Human-Centered Security and Privacy group led by <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>, conducting qualitative research on the life cycle of online gambling addiction through personal testimonies and uncovering deceptive design patterns that influence user behavior across regulated and unregulated platforms.
 
-### Research Intern 🧑‍🔬
-**<a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Trustworthy Cyberspace Lab (tClab) at Virginia Tech</a>**  
-*October 2023 - November 2024*  
-Part-time intern at Trustworthy Cyberspace Lab (tClab) at Virginia Tech, where I contributed as the second author of a systematic review summarizing 77 papers on combating cybergrooming and collected datasets and source codes to support future lab research.
+
+### Research Intern 🧑‍🔬  
+**<a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Trustworthy Cyberspace Lab (tClab)</a>**, <a href="https://www.vt.edu/" target="_blank">Virginia Tech</a>  
+*October 2023 – November 2024*  
+Worked under the supervision of <a href="https://people.cs.vt.edu/jicho/index.html" target="_blank">Dr. Jin-Hee Cho</a> as part of the **<a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">RYLAI Project</a>**. Contributed as **second author** of a systematic interdisciplinary review analyzing 77 studies on combating cybergrooming and supported dataset and code collection to guide future research on online child safety.
+
 
 ### Professor's Assistant, Intern 📡
 **<a href="https://c5i.gmu.edu/" target="_blank">C4I & Cyber Center at George Mason University</a>**  

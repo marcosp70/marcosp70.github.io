@@ -8,15 +8,21 @@ redirect_from:
 ---
 <div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
-## About me
+## A little bit about me
 
-I am a final-year Computer Engineering student at CEFET-MG (Brazil) interested in human-centered security, privacy, and the technical systems that shape digital risk.
+🧑🏽‍💻 I’m a final-year Computer Engineering student at CEFET-MG (Brazil), passionate about human-centered security and privacy.
 
-I combine research experience with professional cybersecurity practice. I am currently a Cyber Intelligence Analyst at <a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a> and previously worked as a Cybersecurity Analyst at <a href="https://hotmart.com/" target="_blank">Hotmart</a>, where I investigated security events in a large-scale production environment and developed operational documentation. Together, these roles have strengthened my interest in both technical security work and the human factors that influence security outcomes.
+🛡️ Alongside my research, I work as a Cyber Intelligence Analyst at <a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>. Previously, I was a Cybersecurity Analyst at <a href="https://hotmart.com/" target="_blank">Hotmart</a>, where I investigated security events in a large-scale production environment and developed operational documentation. These experiences complement my work across both technical and human-centered cybersecurity.
 
-My research includes a human-centered security and privacy internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>, supervised by <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>; a systematic review of cybergrooming research with collaborators at <a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Virginia Tech</a>; and an international study of security and privacy advice across nine Majority World countries. I also studied cybersecurity at Northern Virginia Community College through the U.S. Department of State's Community College Initiative Program, graduating <em>summa cum laude</em> with a 4.0 GPA.
+💻 I recently completed a research internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, where I worked under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My research focused on human-centered security and privacy, analyzing the life cycle of online gambling addiction through personal testimonies to identify deceptive design patterns that manipulate users across regulated and unregulated platforms.
 
-If you’d like to know more about my work, check out my <a href="/cv/">CV</a>.
+🛫 I was awarded a one-year U.S. Department of State scholarship to study cybersecurity at Northern Virginia Community College through the <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">Community College Initiative Program (CCI)</a>, where I graduated <em>summa cum laude</em> with a 4.0 GPA.
+
+📚 I’m the second author of a <a href="https://arxiv.org/abs/2503.05727" target="_blank">systematic review</a> on cybergrooming with researchers from <a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Virginia Tech</a>, and I contributed to an <a href="https://www.computer.org/csdl/proceedings-article/sp/2026/606500a076/2bojv9k3yOk" target="_blank"><strong>international study</strong></a> on security and privacy advice across nine Majority World countries, published at <em>IEEE S&amp;P 2026</em>, coordinating data collection in Brazil.
+
+👾 I’m passionate about CTFs, hackathons, and collaborative research. I founded and served as president of CyberForce NOVA, a cybersecurity student club at NOVA, where I helped organize events and promote cybersecurity awareness.
+
+If you’d like to know more about my work, check out my <a href="/files/cv.pdf" target="_blank">CV</a>.
 
 ## Publications
 

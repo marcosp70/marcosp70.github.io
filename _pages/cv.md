@@ -11,9 +11,11 @@ redirect_from:
 
 <div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
+<p style="color: #b22222; font-weight: 600;">I am seeking Ph.D. opportunities in security and privacy groups that bridge technical cybersecurity with human-centered research.</p>
+
 ## Research Interests
 
-Human-centered security and privacy; usable security; digital ethics; dark patterns; online safety; and security risk analysis. I am particularly interested in how security and privacy risks are experienced, communicated, and mitigated in real-world digital environments.
+Human-centered security and privacy; usable security; digital ethics; dark patterns; online safety; threat intelligence; and security risk analysis. I am particularly interested in how technical security mechanisms, organizational practices, and interface design shape the way people experience, understand, and mitigate digital risk.
 
 ## Education
 
@@ -45,17 +47,17 @@ Human-centered security and privacy; usable security; digital ethics; dark patte
 
 ## Professional Experience
 
+**Cyber Intelligence Analyst**, Wabtec, Contagem, Brazil<br>
+*September 2026 - Present*
+
+- Work as a Cyber Intelligence Analyst, extending my applied cybersecurity experience alongside my academic research agenda.
+
 **Cybersecurity Analyst**, Hotmart, Belo Horizonte, Brazil<br>
-*March 2026 - Present*
+*March 2026 - August 2026*
 
-- Investigate security events and anomalies in large-scale production environments using IBM QRadar, CrowdStrike, and observability data.
-- Correlate security signals to support threat triage, risk identification, and remediation decisions.
-- Develop operational documentation and onboarding playbooks that standardize security workflows and communicate good practices across teams.
-
-**Incoming Cyber Intelligence Analyst**, Wabtec, Contagem, Brazil<br>
-*Starting September 2026*
-
-- Accepted an offer to join Wabtec as a Cyber Intelligence Analyst.
+- Investigated security events and anomalies in large-scale production environments using IBM QRadar, CrowdStrike, and observability data.
+- Correlated security signals to support threat triage, risk identification, and remediation decisions.
+- Developed operational documentation and onboarding playbooks that standardized security workflows and communicated good practices across teams.
 
 ## Publications
 

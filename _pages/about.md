@@ -8,22 +8,13 @@ redirect_from:
 ---
 <div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
-## A little bit about me
+## About me
 
-🧑🏽‍💻 I'm a final-year Computer Engineering student at CEFET-MG (Brazil), passionate about human-centered security and privacy.
+I am a final-year Computer Engineering student at CEFET-MG (Brazil) interested in human-centered security, privacy, and the technical systems that shape digital risk.
 
-🛡️ Alongside my academic work, I am a Cybersecurity Analyst at <a href="https://hotmart.com/" target="_blank">Hotmart</a>. I investigate security events in large-scale production environments, correlate signals from security and observability tools, and develop internal documentation that helps standardize security operations. This applied work complements my research interests in usable security, privacy, and risk.
+I combine research experience with professional cybersecurity practice. I am currently a Cyber Intelligence Analyst at <a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a> and previously worked as a Cybersecurity Analyst at <a href="https://hotmart.com/" target="_blank">Hotmart</a>, where I investigated security events in a large-scale production environment and developed operational documentation. Together, these roles have strengthened my interest in both technical security work and the human factors that influence security outcomes.
 
-🚆 Starting in September 2026, I will join <a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a> as a Cyber Intelligence Analyst. I am especially interested in connecting this industry experience with my longer-term research agenda in human-centered cybersecurity and privacy.
-
-💻 I recently completed a research internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, where I worked under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My research focused on human-centered security and privacy, analyzing the life cycle of online gambling addiction through personal testimonies to identify deceptive design patterns that manipulate users across regulated and unregulated platforms.
-
-🛫 I was awarded a one-year U.S. Department of State scholarship to study cybersecurity at Northern Virginia Community College through the <a href="https://exchanges.state.gov/non-us/program/community-college-initiative-program" target="_blank">Community College Initiative Program (CCI)</a>, where I graduated summa cum laude with a 4.0 GPA.
-
-📚 I’m the second author of a <a href="https://arxiv.org/abs/2503.05727" target="_blank">systematic review</a> on cybergrooming with researchers from <a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Virginia Tech</a>, and I contributed to an <strong>international study</strong> on security and privacy advice across nine Majority World countries (to appear at <em>IEEE S&P 2026</em>), coordinating data collection in Brazil.
-
-👾 I’m passionate about CTFs, hackathons, and collaborative research. I founded and served as president of CyberForce NOVA, a cybersecurity student club at NOVA, where I helped organize events and promote cybersecurity awareness.
-<!-- 👾 I’m also the founder of <a href="http://nextgenresearchers.com/" target="_blank"><strong>NextGen Researchers</strong></a>, helping undergraduates explore international research opportunities and connect with mentors worldwide. Previously, I founded CyberForce NOVA, a cybersecurity club at NOVA, where I led events and hackathons to promote cybersecurity awareness. -->
+My research includes a human-centered security and privacy internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>, supervised by <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>; a systematic review of cybergrooming research with collaborators at <a href="https://qizhangvtech.github.io/RYLAI-Website/" target="_blank">Virginia Tech</a>; and an international study of security and privacy advice across nine Majority World countries. I also studied cybersecurity at Northern Virginia Community College through the U.S. Department of State's Community College Initiative Program, graduating <em>summa cum laude</em> with a 4.0 GPA.
 
 If you’d like to know more about my work, check out my <a href="/cv/">CV</a>.
 
@@ -44,15 +35,15 @@ If you’d like to know more about my work, check out my <a href="/cv/">CV</a>.
 
 ## Selected Academic & Professional Experience - Full <a href="/cv/">CV</a>
 
+### Cyber Intelligence Analyst 🚆
+**<a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>**
+*September 2026 - Present*
+Cyber Intelligence Analyst at Wabtec, extending my applied cybersecurity experience while I continue to pursue research at the intersection of security, privacy, and human behavior.
+
 ### Cybersecurity Analyst 🛡️
 **<a href="https://hotmart.com/" target="_blank">Hotmart</a>**
-*March 2026 - Present*
-Investigate security events and anomalies in a large-scale production environment, using IBM QRadar, CrowdStrike, and observability data to support threat triage and risk identification. I also develop operational documentation and playbooks that standardize security workflows across teams.
-
-### Incoming Cyber Intelligence Analyst 🚆
-**<a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>**
-*Starting September 2026*
-Will join Wabtec as a Cyber Intelligence Analyst. This role will extend my applied cybersecurity experience while I continue to pursue research at the intersection of security, privacy, and human behavior.
+*March 2026 - August 2026*
+Investigated security events and anomalies in a large-scale production environment, using IBM QRadar, CrowdStrike, and observability data to support threat triage and risk identification. Developed operational documentation and playbooks that standardized security workflows across teams.
 
 ### Research Intern 🔍  
 **<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>**  

@@ -21,7 +21,7 @@ repository               : "marcosp70/marcosp70.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "marcos-linkedin-profile-square.png"
   name             : "Marcos Silva"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering student researching human-centered security and privacy"

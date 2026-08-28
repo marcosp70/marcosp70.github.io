@@ -8,6 +8,8 @@ redirect_from:
 ---
 <div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
+<p style="color: #b22222; font-weight: 600;">I am seeking Ph.D. positions in security and privacy that connect human-centered research with cyber threat detection, cyber threat intelligence, malware analysis, and cybercrime. I am especially interested in how human analysts investigate, interpret, and make decisions from EDR data, security telemetry, TTPs, and attack evidence—and in how attackers think, adapt, and operate.</p>
+
 ## A little bit about me
 
 🧑🏽‍💻 I’m a final-year Computer Engineering student at CEFET-MG (Brazil), passionate about human-centered security and privacy.
@@ -42,13 +44,13 @@ If you’d like to know more about my work, check out my <a href="/files/cv.pdf"
 ## Selected Academic & Professional Experience - Full <a href="/cv/">CV</a>
 
 ### Cyber Intelligence Analyst 🚆
-**<a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>**
-*September 2026 - Present*
+*September 2026 - Present*<br>
+**<a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>**<br>
 Cyber Intelligence Analyst at Wabtec, extending my applied cybersecurity experience while I continue to pursue research at the intersection of security, privacy, and human behavior.
 
 ### Cybersecurity Analyst 🛡️
-**<a href="https://hotmart.com/" target="_blank">Hotmart</a>**
-*March 2026 - August 2026*
+*March 2026 - August 2026*<br>
+**<a href="https://hotmart.com/" target="_blank">Hotmart</a>**<br>
 Investigated security events and anomalies in a large-scale production environment, using IBM QRadar, CrowdStrike, and observability data to support threat triage and risk identification. Developed operational documentation and playbooks that standardized security workflows across teams.
 
 ### Research Intern 🔍  

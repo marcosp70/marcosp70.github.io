@@ -11,11 +11,11 @@ redirect_from:
 
 <div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
-<p style="color: #b22222; font-weight: 600;">I am seeking Ph.D. opportunities in security and privacy groups that bridge technical cybersecurity with human-centered research.</p>
+<p style="color: #b22222; font-weight: 600;">I am seeking Ph.D. positions in security and privacy that connect human-centered research with cyber threat detection, cyber threat intelligence, malware analysis, and cybercrime. I am especially interested in how human analysts investigate, interpret, and make decisions from EDR data, security telemetry, TTPs, and attack evidence—and in how attackers think, adapt, and operate.</p>
 
 ## Research Interests
 
-Human-centered security and privacy; usable security; digital ethics; dark patterns; online safety; threat intelligence; and security risk analysis. I am particularly interested in how technical security mechanisms, organizational practices, and interface design shape the way people experience, understand, and mitigate digital risk.
+Human-centered threat detection; cyber threat intelligence; malware analysis; cybercrime; attack detection; EDR and security telemetry; TTPs and adversarial behavior; usable security; and security risk analysis. I am particularly interested in how analysts interpret technical evidence, investigate incidents, and make decisions under uncertainty, as well as how attackers think, adapt, and operate across cyber threats.
 
 ## Education
 

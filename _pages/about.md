@@ -6,11 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="color: grey; font-size: 0.8em;">Last updated: June 18, 2025</div>
+<div style="color: grey; font-size: 0.8em;">Last updated: August 28, 2026</div>
 
 ## A little bit about me
 
 🧑🏽‍💻 I'm a final-year Computer Engineering student at CEFET-MG (Brazil), passionate about human-centered security and privacy.
+
+🛡️ Alongside my academic work, I am a Cybersecurity Analyst at <a href="https://hotmart.com/" target="_blank">Hotmart</a>. I investigate security events in large-scale production environments, correlate signals from security and observability tools, and develop internal documentation that helps standardize security operations. This applied work complements my research interests in usable security, privacy, and risk.
+
+🚆 Starting in September 2026, I will join <a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a> as a Cyber Intelligence Analyst. I am especially interested in connecting this industry experience with my longer-term research agenda in human-centered cybersecurity and privacy.
 
 💻 I recently completed a research internship at the <a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a> in Bochum, Germany, where I worked under the supervision of <a href="https://yixinzou.github.io/" target="_blank">Dr. Yixin Zou</a>. My research focused on human-centered security and privacy, analyzing the life cycle of online gambling addiction through personal testimonies to identify deceptive design patterns that manipulate users across regulated and unregulated platforms.
 
@@ -21,7 +25,7 @@ redirect_from:
 👾 I’m passionate about CTFs, hackathons, and collaborative research. I founded and served as president of CyberForce NOVA, a cybersecurity student club at NOVA, where I helped organize events and promote cybersecurity awareness.
 <!-- 👾 I’m also the founder of <a href="http://nextgenresearchers.com/" target="_blank"><strong>NextGen Researchers</strong></a>, helping undergraduates explore international research opportunities and connect with mentors worldwide. Previously, I founded CyberForce NOVA, a cybersecurity club at NOVA, where I led events and hackathons to promote cybersecurity awareness. -->
 
-If you’d like to know more about my work, check out my <a href="/files/cv.pdf" target="_blank">CV</a>.
+If you’d like to know more about my work, check out my <a href="/cv/">CV</a>.
 
 ## Publications
 
@@ -38,7 +42,17 @@ If you’d like to know more about my work, check out my <a href="/files/cv.pdf"
 
 
 
-## Selected Experience - All experiences <a href="/files/cv.pdf" target="_blank">here</a>.
+## Selected Academic & Professional Experience - Full <a href="/cv/">CV</a>
+
+### Cybersecurity Analyst 🛡️
+**<a href="https://hotmart.com/" target="_blank">Hotmart</a>**
+*March 2026 - Present*
+Investigate security events and anomalies in a large-scale production environment, using IBM QRadar, CrowdStrike, and observability data to support threat triage and risk identification. I also develop operational documentation and playbooks that standardize security workflows across teams.
+
+### Incoming Cyber Intelligence Analyst 🚆
+**<a href="https://www.wabteccorp.com/" target="_blank">Wabtec</a>**
+*Starting September 2026*
+Will join Wabtec as a Cyber Intelligence Analyst. This role will extend my applied cybersecurity experience while I continue to pursue research at the intersection of security, privacy, and human behavior.
 
 ### Research Intern 🔍  
 **<a href="https://www.mpi-sp.org/" target="_blank">Max Planck Institute for Security and Privacy</a>**  
